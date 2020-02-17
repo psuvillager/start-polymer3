@@ -1,5 +1,4 @@
-# Start Polymer 3.0 
-// Added lots of comments in source code for reference when working with other Polymer projects (like TT)
+# Start Polymer 3.0 -- w/ lots of comments for learning/reference (for TT, etc)
 
 A simple Polymer 3.0 demo app. See it deployed at [start-polymer3.firebaseapp.com](https://start-polymer3.firebaseapp.com).
 
